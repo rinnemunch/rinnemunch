@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @rinnemunch<br>👀 I’m interested in front-end development.<br>🌱 <br> I’m looking to collaborate on fun projects.<br>⚡ Fun fact: I love cars 🚗
+👋 Hi, I’m @rinnemunch<br>👀 I’m interested in mobile development 🤳
 
 
 
