@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m @rinnemunch<br>👀 I’m interested in mobile development 🤳
+Mobile Developer! 🤳
 
 
 
