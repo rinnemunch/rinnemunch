@@ -1,4 +1,3 @@
-Mobile Developer! 🤳
 
 
 
